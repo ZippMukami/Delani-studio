@@ -9,8 +9,20 @@
     height: 100vh;
 }
 
+.words{
+    margin-top:80px ;
+}
+
+.p1{
+    font-size: 40px;
+    font-weight: 600;
+}
 
 
+.click{
+    display: flex;
+    margin-top: 110px;
+}
 
 
 /* .container-fluid{
