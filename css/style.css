@@ -50,5 +50,7 @@ font-weight: 600;
 .service{
     background-image: url("../assets/backgrounds/s_image.jpg");
     width: 100%;
-    height: auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 40px;
 }
