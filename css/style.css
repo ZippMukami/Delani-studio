@@ -75,26 +75,36 @@
     height: auto;
 }
 
-.portfolio img{
-    width: 150px;
-}
-
-.contact{
-    background-image: url("../assets/backgrounds/c_image.jpg");
-    width: 100%;
-    height: auto;
-    background-size: cover;
-    padding: 30px;
-}
-
-/* .forms{
-    
-} */
-
 .form-outline{
     border: 1px solid white;
 }
 
 .form-outline .form-control .form-label{
     color: white !important;
+}
+
+
+.item-wrap{
+    position: relative;
+}
+
+.image-title{
+    position: absolute;
+    top: 0;
+    margin: 0;
+    padding: 15px;
+    height: 100%;
+    width: 100%;
+    display: none;
+    background-color: #333333d3;
+}
+
+.border{
+    height: 100%;
+    text-transform: uppercase;
+    font-size: 28px;
+    font-weight: 500;
+    color: white;
+    padding: 10px;
+    line-height: 1.2;
 }
