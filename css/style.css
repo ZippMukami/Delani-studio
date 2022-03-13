@@ -78,3 +78,11 @@
 .portfolio img{
     width: 150px;
 }
+
+.contact{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    padding: 30px;
+}
