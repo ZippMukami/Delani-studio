@@ -33,8 +33,22 @@
     height: auto;
 }
 
+.about{
+    padding: 30px;
+
+}
+
 .about h2{
 font-size: 18px;
 font-weight: 600;
-padding: 30px;
+}
+
+.about p{
+    font-size: 15px;
+}
+
+.service{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    width: 100%;
+    height: auto;
 }
