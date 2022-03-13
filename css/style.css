@@ -54,3 +54,18 @@ font-weight: 600;
     background-repeat: no-repeat;
     padding: 40px;
 }
+
+.icons{
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.what-we-do {
+    padding: 30px;
+}
+
+.what-we-do h2{
+    font-size: 18px;
+    font-weight: 600;
+}
