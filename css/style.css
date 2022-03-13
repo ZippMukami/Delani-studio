@@ -33,21 +33,21 @@
     height: auto;
 }
 
-.about{
+.about {
     padding: 30px;
 
 }
 
-.about h2{
-font-size: 18px;
-font-weight: 600;
+.about h2 {
+    font-size: 18px;
+    font-weight: 600;
 }
 
-.about p{
+.about p {
     font-size: 15px;
 }
 
-.service{
+.service {
     background-image: url("../assets/backgrounds/s_image.jpg");
     width: 100%;
     background-size: cover;
@@ -55,7 +55,7 @@ font-weight: 600;
     padding: 40px;
 }
 
-.icons{
+.icons {
     display: flex;
     justify-content: space-around;
     padding: 40px;
@@ -65,7 +65,16 @@ font-weight: 600;
     padding: 30px;
 }
 
-.what-we-do h2{
+.what-we-do h2 {
     font-size: 18px;
     font-weight: 600;
+}
+
+.portfolio{
+    width: 100%;
+    height: auto;
+}
+
+.portfolio img{
+    width: 150px;
 }
