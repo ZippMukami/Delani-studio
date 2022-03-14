@@ -80,15 +80,21 @@
     border: 1px solid white;
 }
 
-.contact{
+.contact-chimp{
     background-image: url("../assets/backgrounds/c_image.jpg");
     width: 100%;
     height: auto;
     background-size: cover;
     padding: 30px;
 }
+.validate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 
-.contact input[type=text]{
+/* .contact input[type=text]{
 color: white;
 }
 
@@ -99,7 +105,7 @@ color: white;
 
 .item-wrap{
     position: relative;
-}
+} */
 
 .image-title{
     position: absolute;
@@ -112,7 +118,7 @@ color: white;
     background-color: #333333d3;
 }
 
-.border{
+/* .border{
     height: 100%;
     text-transform: uppercase;
     font-size: 28px;
@@ -120,7 +126,7 @@ color: white;
     color: white;
     padding: 10px;
     line-height: 1.2;
-}
+} */
 
 .social-icons{
 display: flex;
