@@ -1,5 +1,5 @@
 # Delani-studio
-A landing page for a website.
+A landing page for a fictional studio.
 
 #### Created on 6th March 2022
 #### By Zipporah Mukami Muindi
@@ -32,7 +32,7 @@ To access this project on your local files, you can clone it using these steps
 ---
 
 ## Behaviour Driven Development
-
+The project uses jQuery to hide and show icons and their description
 
 
 
