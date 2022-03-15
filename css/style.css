@@ -146,3 +146,15 @@ margin-top: 15px;
 .ftr {
     color: black;
 }
+
+#mc_embed_signup{
+    background: transparent;
+}
+#mc_embed_signup label, #mc_embed_signup h2{
+    color: white;
+}
+
+#mc_embed_signup input, #mc_embed_signup textarea{
+    background: transparent;
+}
+

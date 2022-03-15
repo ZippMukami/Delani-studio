@@ -125,28 +125,28 @@ $(document).ready(function () {
 });
 
 
-document.querySelector("#button").addEventListener("click", function (e) {
-    e.preventDefault();
-});
+// document.querySelector("#button").addEventListener("click", function (e) {
+//     e.preventDefault();
+// });
 
 
-function send() {
-    let name = document.getElementById("form4Example1").value;
-    let email = document.getElementById("form4Example2").value;
-    let message = document.getElementById("form4Example3").value;
+// function send() {
+//     let name = document.getElementById("form4Example1").value;
+//     let email = document.getElementById("form4Example2").value;
+//     let message = document.getElementById("form4Example3").value;
 
 
-    if (name === "") {
-        alert("Kindly enter your name!");
-    } else if (email === "") {
-        alert("Kindly enter your email!");
-    } else if (message === "") {
-        alert("Kindly write a message!");
-    } else {
-        alert("Hi " + name + ", we have received your message. Thank you for reaching out to us.")
-        reset();
-    }
+//     if (name === "") {
+//         alert("Kindly enter your name!");
+//     } else if (email === "") {
+//         alert("Kindly enter your email!");
+//     } else if (message === "") {
+//         alert("Kindly write a message!");
+//     } else {
+//         alert("Hi " + name + ", we have received your message. Thank you for reaching out to us.")
+//         reset();
+//     }
 
-};
+// };
 
-reset();
+// reset();
