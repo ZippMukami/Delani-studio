@@ -5,7 +5,7 @@ A landing page for a fictional studio.
 #### By Zipporah Mukami Muindi
 
 ## Description 
-
+The application is an online studio that allows users to interact with a design and web development company. It describes the services, about us and contact information about the company.
 
 
 The Application
@@ -32,7 +32,9 @@ To access this project on your local files, you can clone it using these steps
 ---
 
 ## Behaviour Driven Development
-The project uses jQuery to hide and show icons and their description
+1. The project uses jQuery to hide and show icons and their description.
+2. The project uses a MailChimp form as the main contact information.
+3. 
 
 
 
